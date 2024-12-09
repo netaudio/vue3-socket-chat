@@ -1,5 +1,8 @@
 # vue3-socket-chat
 
+开启chat-service的命令：
+node app.js
+
 > 这是一款响应式开源的 web 即时聊天应用，该应用使用全新技术构建，前端使用 `element-plus`+ `vue3` + `vite` + `ts` + `pinia` + `socket.io` + `unocss ` 等开发，后端使用 `nodejs` + `express` + `socket.io` + `express-jwt` 等开发，数据库使用 `mysql`，可自定义聊天主题，支持图片、视频等文件发送，文件存储方面还支持对接兼容 AWS s3 的对象存储平台，只需修改相应配置即可将文件存储到对象存储，能够很方便的进行二次开发和集成，也很适合新手交流学习
 
 ### 项目列表
